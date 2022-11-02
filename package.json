@@ -1,0 +1,20 @@
+{
+  "description": "An auto-generated demo by dumi",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "18.2.0",
+    "@pansy/react-amap": ">2",
+    "@pansy/react-amap-ui": "2.1.12",
+    "react-dom": "18.2.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
